@@ -1,0 +1,25 @@
+{
+  "name": "eslint-config-kzaam",
+  "version": "1.0.3",
+  "description": "eslint rules for kzaam projects",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/virtual-mind/eslint-config-kzaam"
+  },
+  "keywords": [
+    "kzaam",
+    "lint",
+    "eslint"
+  ],
+  "author": "",
+  "readmeFilename": "README.md",
+  "peerDependencies": {
+    "eslint": ">= 3"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {},
+  "pre-commit": [],
+  "main": "./index.js",
+  "license": "MIT"
+}
